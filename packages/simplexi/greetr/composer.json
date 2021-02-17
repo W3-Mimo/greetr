@@ -1,0 +1,14 @@
+{
+    "name": "simplexi/greetr",
+    "description": "A simple Laravel Package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "W3-Mimo",
+            "email": "mimosaha@w3engineers.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
