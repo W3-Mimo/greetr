@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "simplexi/greetr": "^1.0.2"
+        "simplexi/greetr": "^1.0.3"
     }
 }

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44905399-9c5d-4087-bb01-44cbe73ed331" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/simplexi/greetr/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/simplexi/greetr/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +157,7 @@
       <updated>1613564394913</updated>
       <workItem from="1613564402901" duration="3472000" />
       <workItem from="1613623496686" duration="2060000" />
-      <workItem from="1613630733846" duration="1999000" />
+      <workItem from="1613630733846" duration="2046000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1613567904123</created>
