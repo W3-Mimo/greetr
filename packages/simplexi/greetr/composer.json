@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "simplexi/greetr": "^1.0.2"
+    }
 }

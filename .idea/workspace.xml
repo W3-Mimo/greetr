@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44905399-9c5d-4087-bb01-44cbe73ed331" name="Default Changelist" comment="" />
+    <list default="true" id="44905399-9c5d-4087-bb01-44cbe73ed331" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/simplexi/greetr/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/simplexi/greetr/composer.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -135,6 +138,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/simplexi/greetr" />
       <recent name="$PROJECT_DIR$/packages/simplexi/greetr/src" />
     </key>
   </component>
@@ -153,6 +157,8 @@
       <option name="presentableId" value="Default" />
       <updated>1613564394913</updated>
       <workItem from="1613564402901" duration="3472000" />
+      <workItem from="1613623496686" duration="2060000" />
+      <workItem from="1613630733846" duration="1999000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1613567904123</created>
