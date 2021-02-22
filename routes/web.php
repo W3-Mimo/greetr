@@ -14,6 +14,7 @@
 use Simplexi\Greetr\Greetr;
 
 Route::get('/greet/{name}', function ($name) {
+    $name = 'Users';
     $oGreetr = new Greetr();
     return $oGreetr->greet($name);
 });
